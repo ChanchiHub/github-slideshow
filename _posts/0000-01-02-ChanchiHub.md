@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Babushka
+I like the stock
 Use the left arrow to go back
